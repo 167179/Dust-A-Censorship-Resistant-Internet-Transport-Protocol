@@ -1,0 +1,16 @@
+**/dist
+**/id.pub
+**/id.priv
+Dust-crypto/dist
+**/*.pyc
+**/*.so
+**/*.dylib
+Dust-command/*.model
+Dust-command/*.json
+Dust-command/*.commands
+Dust-command/*.commands2
+Dust-command/*.py
+modelgen/models/generated
+modelgen/models/data/http.json
+modelgen/models/data/https.json
+modelgen/node_modules
