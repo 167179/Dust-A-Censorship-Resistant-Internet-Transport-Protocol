@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>167179_Dust-A-Censorship-Resistant-Internet-Transport-Protocol</sonar.projectKey>
+  <sonar.organization>167179</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
